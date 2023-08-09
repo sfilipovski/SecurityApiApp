@@ -1,5 +1,3 @@
-# SecurityApiApp
-Asp.Net Core Web Api project for user authentication and authorization using JWT
+# SecurityApiApp - User Authentication and Authorization API
 
-
-An API that uses JWT for user authentication and role-based user authorization. This project is developed without the use of Asp.Net Core Identity and Entity Framework and instead uses Dapper for database communication.
+> This project is a C# ASP.NET Core Web API that handles user authentication and authorization using JSON Web Tokens (JWT). The API is built without Entity Framework and instead utilizes Dapper for database operations. Stored procedures are used for specific database interactions.
